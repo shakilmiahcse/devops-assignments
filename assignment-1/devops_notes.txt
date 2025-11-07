@@ -1,0 +1,8 @@
+DevOps হলো Development এবং Operations টিমের মধ্যে সহযোগিতার একটি সংস্কৃতি, যেখানে software delivery প্রক্রিয়াকে দ্রুত, নির্ভরযোগ্য এবং স্বয়ংক্রিয় করা হয়।
+
+CLAMS Framework:
+- C: Culture — টিমের মধ্যে সহযোগিতা এবং বিশ্বাস।
+- L: Lean — অপ্রয়োজনীয় ধাপ বাদ দিয়ে দ্রুত ডেলিভারি।
+- A: Automation — Build, Test, Deploy সব কিছু automate করা।
+- M: Measurement — প্রতিটি ধাপ পরিমাপ করে উন্নতি করা।
+- S: Sharing — জ্ঞান, অভিজ্ঞতা এবং feedback ভাগাভাগি করা।
